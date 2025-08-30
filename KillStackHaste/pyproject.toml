@@ -1,0 +1,10 @@
+[project]
+name = "KillStackHaste"
+version = "1.3.4"
+authors = [{ name = "Lloyd & GPT" }]
+description = "On-kill stacking ARPG buffs. Keybind-only. Adds FOV bump for visible feedback."
+[tool.sdkmod]
+name = "KillStackHaste"
+version = "1.3.4"
+supported_games = ["BL3"]
+license = {name = "MIT", url = "https://opensource.org/license/mit" }

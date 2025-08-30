@@ -1,0 +1,10 @@
+[project]
+name = "PylonsARPG"
+version = "0.1.4"
+authors = [{ name = "Lloyd & GPT" }]
+description = "Static pylons; one near spawn; bigger detection; 'Drop Anchor Here' key. Keybind-only."
+[tool.sdkmod]
+name = "Pylons ARPG"
+version = "0.1.4"
+supported_games = ["BL3"]
+license = {name = "MIT", url = "https://opensource.org/license/mit" }
