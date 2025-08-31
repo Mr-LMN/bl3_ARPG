@@ -1,0 +1,11 @@
+[project]
+name = "UberUniques"
+version = "0.1.0"
+authors = [{ name = "Lloyd & GPT" }]
+description = "Rare uber unique drops granting huge ARPG-style buffs."
+
+[tool.sdkmod]
+name = "UberUniques"
+version = "0.1.0"
+supported_games = ["BL3"]
+license = {name = "MIT", url = "https://opensource.org/license/mit" }
